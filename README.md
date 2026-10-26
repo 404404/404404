@@ -15,7 +15,7 @@
 
 ### ⚡ Token Usage Overview
 
-[![Tokens Stats](https://tokens.ci/api/embed/404404/svg?color=green&graph=1&today=1&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
+[![Tokens Stats](https://tokens.ci/api/embed/404404/svg?color=green&today=1&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
 
 ### 🧊 3D Activity Graph
 
