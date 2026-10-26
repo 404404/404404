@@ -26,15 +26,3 @@
 [![Tokens Detailed Stats](https://tokens.ci/api/embed/404404/svg?template=detailed&color=green&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
 
 ---
-
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=404404&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=404404&layout=compact&theme=github_dark)
-
-</div>
-
