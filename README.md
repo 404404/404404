@@ -21,8 +21,4 @@
 
 [![Tokens 3D Activity](https://tokens.ci/api/embed/404404/svg?view=3d)](https://tokens.ci/u/404404)
 
-### 📈 Detailed Usage Statistics
-
-[![Tokens Detailed Stats](https://tokens.ci/api/embed/404404/svg?template=detailed&color=green&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
-
 ---
