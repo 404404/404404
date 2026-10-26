@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm 404404 👋
+# Hi, I'm 404 👋
 
 ### Networking · Homelab · AI Agents · Open Source
 
@@ -27,20 +27,6 @@
 
 ---
 
-## 🚀 My Projects
-
-### Networking & Homelab
-
-- [Merlin-V6-Plugin](https://github.com/404404/Merlin-V6-Plugin)
-  - EasyTier integration for ASUS Merlin
-  - IPv6 management in AP mode
-
-### AI & Development
-
-- [Pulse](https://github.com/404404/Pulse)
-  - AI usage monitoring and authentication integrations
-
----
 
 ## 📈 GitHub Activity
 
