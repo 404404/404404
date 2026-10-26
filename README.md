@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**404404/404404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm 404404 👋
 
-Here are some ideas to get you started:
+### Networking · Homelab · AI Agents · Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://img.shields.io/github/followers/404404?style=flat-square)](https://github.com/404404?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=404404&style=flat-square)
+
+</div>
+
+---
+
+## 📊 AI Coding Statistics
+
+### ⚡ Token Usage Overview
+
+[![Tokens Stats](https://tokens.ci/api/embed/404404/svg?color=green&graph=1&today=1&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
+
+### 🧊 3D Activity Graph
+
+[![Tokens 3D Activity](https://tokens.ci/api/embed/404404/svg?view=3d)](https://tokens.ci/u/404404)
+
+### 📈 Detailed Usage Statistics
+
+[![Tokens Detailed Stats](https://tokens.ci/api/embed/404404/svg?template=detailed&color=green&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/404404)
+
+---
+
+## 🚀 My Projects
+
+### Networking & Homelab
+
+- [Merlin-V6-Plugin](https://github.com/404404/Merlin-V6-Plugin)
+  - EasyTier integration for ASUS Merlin
+  - IPv6 management in AP mode
+
+### AI & Development
+
+- [Pulse](https://github.com/404404/Pulse)
+  - AI usage monitoring and authentication integrations
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=404404&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=404404&layout=compact&theme=github_dark)
+
+</div>
+
